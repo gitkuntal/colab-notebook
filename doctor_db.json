@@ -1,0 +1,74 @@
+{
+  "doctor_db": [
+    {
+      "name": "Dr. Anjali Mehta",
+      "specialization": "Endocrinologist",
+      "available_timings": "Mon-Fri, 9 AM - 2 PM",
+      "location": "Apollo Hospital, Delhi",
+      "contact": "anjali.mehta@endoclinic.com"
+    },
+    {
+      "name": "Dr. Rajesh Sharma",
+      "specialization": "Diabetologist",
+      "available_timings": "Tue-Sat, 10 AM - 5 PM",
+      "location": "Fortis Hospital, Mumbai",
+      "contact": "rajesh.sharma@fortisdoc.in"
+    },
+    {
+      "name": "Dr. Sneha Kapoor",
+      "specialization": "Nutritionist",
+      "available_timings": "Mon-Sat, 11 AM - 6 PM",
+      "location": "Max Healthcare, Bengaluru",
+      "contact": "sneha.kapoor@nutritionhub.org"
+    },
+    {
+      "name": "Dr. Arvind Nair",
+      "specialization": "Endocrinologist",
+      "available_timings": "Mon-Fri, 8 AM - 1 PM",
+      "location": "AIIMS, New Delhi",
+      "contact": "arvind.nair@aiimsmed.edu"
+    },
+    {
+      "name": "Dr. Kavita Reddy",
+      "specialization": "General Physician",
+      "available_timings": "Mon-Sat, 2 PM - 8 PM",
+      "location": "Columbia Asia, Hyderabad",
+      "contact": "kavita.reddy@columbiaasia.com"
+    },
+    {
+      "name": "Dr. Nikhil Verma",
+      "specialization": "Diabetologist",
+      "available_timings": "Mon-Wed-Fri, 9 AM - 12 PM",
+      "location": "Ruby Hall Clinic, Pune",
+      "contact": "nikhil.verma@rubyhall.org"
+    },
+    {
+      "name": "Dr. Priya Menon",
+      "specialization": "Pediatric Endocrinologist",
+      "available_timings": "Tue-Sat, 10 AM - 4 PM",
+      "location": "Aster Medcity, Kochi",
+      "contact": "priya.menon@astermedcity.in"
+    },
+    {
+      "name": "Dr. Vikram Patel",
+      "specialization": "Endocrinologist",
+      "available_timings": "Mon-Sat, 1 PM - 6 PM",
+      "location": "CIMS Hospital, Ahmedabad",
+      "contact": "vikram.patel@endocare.net"
+    },
+    {
+      "name": "Dr. Neha Singh",
+      "specialization": "Diabetes Educator",
+      "available_timings": "Mon-Fri, 9 AM - 3 PM",
+      "location": "Medanta Hospital, Gurgaon",
+      "contact": "neha.singh@medantahealth.com"
+    },
+    {
+      "name": "Dr. Ramesh Iyer",
+      "specialization": "Endocrinologist",
+      "available_timings": "Mon-Sat, 10 AM - 5 PM",
+      "location": "Manipal Hospital, Chennai",
+      "contact": "ramesh.iyer@manipalclinic.org"
+    }
+  ]
+}
