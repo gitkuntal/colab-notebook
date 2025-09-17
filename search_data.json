@@ -1,0 +1,31 @@
+{
+  "search_pages": [
+    {
+      "title": "Diabetes mellitus: The epidemic of the century",
+      "snippet": "Diabetes mellitus is a group of metabolic diseases characterized by chronic hyperglycemia resulting from defects in insulin secretion, insulin action, or both.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4478580/"
+    },
+    {
+      "title": "Knowledge about type 2 diabetes: its impact for future management",
+      "snippet": "In this study, we aimed to assess the diabetes knowledge of a type 2 diabetes (T2D) population and identify major knowledge gaps… The percentage of correct answers was 51.8% for non-insulin vs. 58.7% for insulin treated (p < 0.05).",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1328001/full"
+    },
+    {
+      "title": "Diabetes Care (journal website)",
+      "snippet": "Diabetes Care publishes original research about the physiology and pathophysiology of diabetes mellitus. Submitted manuscripts can report any aspect of laboratory, clinical, epidemiologic, health services, translational research, etc.",
+      "url": "https://diabetesjournals.org/care"
+    }
+  ],
+  "pubmed_pages": [
+    {
+      "pub_title": "The burden and risks of emerging complications associated with diabetes mellitus",
+      "abstract_snippet": "This article discusses evidence for the emergence of a different set of complications associated with diabetes mellitus from the traditional ones. These include increased risks of non‐vascular complications such as cancer, infections, neurodegenerative diseases, and liver disease in patients with long‐standing hyperglycemia.",
+      "pubmed_id": "PMC9169030"
+    },
+    {
+      "pub_title": "Diabetes mellitus: Classification, mediators, and therapeutic challenges",
+      "abstract_snippet": "Diabetes mellitus is defined by persistent hyperglycemia and is commonly classified into type 1, type 2, gestational diabetes and other specific types. Key mediators include insulin resistance, β-cell dysfunction, inflammation, and lipid dysregulation. Managing these factors remains central to therapy.",
+      "pubmed_id": "Antar et al., 2023 (ScienceDirect)"
+    }
+  ]
+}
